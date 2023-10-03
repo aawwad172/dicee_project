@@ -12,7 +12,7 @@ void main() {
           ),
           backgroundColor: Colors.red,
         ),
-        body: SafeArea(child: DicePage()),
+        body: const SafeArea(child: DicePage()),
       ),
     ),
   );

@@ -1,16 +1,38 @@
-# dicee_project
+# Dice Flutter Project
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This is a simple Flutter application that simulates the roll of a dice. With a tap, users can "roll" the dice and get a random number between 1 and 6, just like a real dice.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Random Dice Roll:** Every time you tap the dice, a random number between 1 and 6 is generated.
+- **Cross-Platform:** Built with Flutter, this app can run on Android, iOS, and web platforms.
+- **Simple UI:** The user interface is intuitive and straightforward, making it easy for anyone to use.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/aawwad172/dicee_project.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd dicee_project
+   ```
+3. Install the dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+[MIT](./LICENSE)
